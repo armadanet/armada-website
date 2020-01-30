@@ -1,3 +1,12 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "ArmadaNet"
+enableGitInfo = true
+# disqusShortname = "armadanet"
+
+[params]
+
+  BookMenuBundle = '/menu'
+  BookEditPath = 'edit/master/armadanet-website/content'
+
+  # BookComments = true
